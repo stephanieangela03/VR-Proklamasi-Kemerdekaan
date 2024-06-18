@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: b0704fae0ed9bb6428a47041dea1d542
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material__25_Diffuse
+    second: {fileID: 2800000, guid: 12af8aac73363f44084c809c914e5f03, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material__25_Normal
+    second: {fileID: 2800000, guid: a9b4b93e94493244c8bff50050d8a667, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material__25_Opacity
+    second: {fileID: 2800000, guid: ebcb3720ad08aa34ba90831c5974223c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_DownTeeth_Diffuse
+    second: {fileID: 2800000, guid: 7f4de8cbd96269b41958e9d59704eb17, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_DownTeeth_Normal
+    second: {fileID: 2800000, guid: 0ca02f4986b919c42a9174640ae44f83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Hands_Diffuse
+    second: {fileID: 2800000, guid: 518c2221ccf145e49b544c22dd3aa365, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Hands_Normal
+    second: {fileID: 2800000, guid: 6a606ea93a3ed5740b820fa6ddc5919e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Hands_Specular
+    second: {fileID: 2800000, guid: b6d8d654476257a44a461be0b4082cdc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Iris_Diffuse
+    second: {fileID: 2800000, guid: 2cb7a3d705f5c10439b2607ddc97a75f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Iris_Specular
+    second: {fileID: 2800000, guid: 958f52c9a81c30c4fa401a195e28abe2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Lens_Diffuse
+    second: {fileID: 2800000, guid: 912d8c79e288cda4db9b01461997c0ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Lens_Specular
+    second: {fileID: 2800000, guid: 9c8a095ac045be340a1de8cd55bc150f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Lower_Diffuse
+    second: {fileID: 2800000, guid: 7a5b0863e53ad5949bb693ad471dfcc9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Lower_Diffuse_0001
+    second: {fileID: 2800000, guid: 113a1f14828ee7845b038178590eff6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Lower_Normal
+    second: {fileID: 2800000, guid: 4b57562dde75fae4b8e41ecadabf4826, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Lower_Normal_0001
+    second: {fileID: 2800000, guid: 98a8d80160d981b4e88754233ade30ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Lower_Specular
+    second: {fileID: 2800000, guid: c50e89930ebb0454ba192773afd195c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Shoes_Diffuse
+    second: {fileID: 2800000, guid: 659bdf753497c37418291bf02ce72899, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Shoes_Diffuse_0001
+    second: {fileID: 2800000, guid: e0c1834d230aa8c4d90e263fbbee81e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Shoes_Normal
+    second: {fileID: 2800000, guid: 8d66a4547b7f26f45a1079bf6ea24b23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Shoes_Normal_0001
+    second: {fileID: 2800000, guid: ecc776fe6f7d01f43a702b29afeca7d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Shoes_Specular
+    second: {fileID: 2800000, guid: f8429f008f14b074f96ee3483c3f3193, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Shoes_Specular_0001
+    second: {fileID: 2800000, guid: dad7834b019a08546978d96bb5e246a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Tongue_Diffuse
+    second: {fileID: 2800000, guid: a38479453dcc520409cc6d61e930aaf0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_UpperTeeth_Diffuse
+    second: {fileID: 2800000, guid: ba543b47c2064f94a86f70956d0968d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_UpperTeeth_Normal
+    second: {fileID: 2800000, guid: ee91f3ea2a5618f489abee7995ed7791, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Upper_Diffuse
+    second: {fileID: 2800000, guid: 8fa7962b3be14b049b8da9954f11fc2f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Upper_Diffuse_0001
+    second: {fileID: 2800000, guid: 7aee28a20b0f73f4f9d1611b5cf8aaeb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Upper_Normal
+    second: {fileID: 2800000, guid: 29351c41d26dd614a85a361a4c1a23b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Upper_Normal_0001
+    second: {fileID: 2800000, guid: 8eeedcd74d5286e459c683c6da2994ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Part_Upper_Specular
+    second: {fileID: 2800000, guid: 9e9da4cf9f642bf4d8fa6762374ff207, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Texture1_Bump
+    second: {fileID: 2800000, guid: 02d35d8b10792f345a5509b9b101ad1c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Texture1_Diffuse
+    second: {fileID: 2800000, guid: 5067d30c91a3bbe46827d524a70f56ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Texture1_Specular
+    second: {fileID: 2800000, guid: 6bd257eee6b8c004ea52510963f1a11a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lambert2_Specular
+    second: {fileID: 2800000, guid: d8eb41fddb90efc4886d6f17eae0e3b0, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
