@@ -14,13 +14,13 @@ C#: Programming language for scripting interactions and functionalities within t
 ## Usage
 1. Launch the VR Experience:
 
-* Launch the built VR application.
+  * Launch the built VR application.
 
 2. Navigate the Environment:
 
-* Use W,A,S,D controllers to navigate through the virtual environment.
-* Interact with objects and information points to learn more about the historical event.
+  * Use W,A,S,D controllers to navigate through the virtual environment.
+  * Interact with objects and information points to learn more about the historical event.
 
 3. Explore and Learn:
-* Take your time to explore the recreated scene of the Proclamation of Independence.
-* Engage with educational content and gain a deeper understanding of Indonesia's journey to independence.
+  * Take your time to explore the recreated scene of the Proclamation of Independence.
+  * Engage with educational content and gain a deeper understanding of Indonesia's journey to independence.
