@@ -25,6 +25,6 @@ VR Proklamasi Kemerdekaan is a virtual reality experience that immerses users in
     - Take your time to explore the recreated scene of the Proclamation of Independence.
     - Engage with educational content and gain a deeper understanding of Indonesia's journey to independence.
       
-Download big files that are not included in this Github repository link:
+Download large files that are not included in this Github repository link:
 https://drive.google.com/drive/folders/1nr-PGFkr34lUEVfODh66cOsYToODSuNb?usp=drive_link 
 
