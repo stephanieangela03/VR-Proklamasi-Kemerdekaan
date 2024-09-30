@@ -1,4 +1,4 @@
-# VR Proklamasi Kemerdekaan Indonesia
+![image](https://github.com/user-attachments/assets/85247fcc-a650-4db0-8244-b40b966a7f69)# VR Proklamasi Kemerdekaan Indonesia
 ## Overview
 VR Proklamasi Kemerdekaan is a virtual reality experience that immerses users in the historic moment of Indonesia's Proclamation of Independence on August 17, 1945. This project aims to provide an engaging and educational tool for those interested in learning about this significant event in Indonesian history through the use of VR technology.
 
@@ -6,6 +6,9 @@ VR Proklamasi Kemerdekaan is a virtual reality experience that immerses users in
 * Immersive Environment: Experience the historical setting of Indonesia's Proclamation of Independence in a fully recreated virtual environment.
 * Interactive Elements: Engage with various interactive elements to learn more about the events and figures involved in the proclamation.
 * Educational Content: Gain insights into the historical context, significance, and impact of Indonesia's independence through informative content integrated into the VR experience.
+
+## VR Interface
+![image](https://github.com/user-attachments/assets/93a1a55b-1226-4287-a71d-8f00e4d63fa0)
 
 ## Technology Stack
 * Unity: Game engine used for developing the VR environment.
