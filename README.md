@@ -9,6 +9,7 @@ VR Proklamasi Kemerdekaan is a virtual reality experience that immerses users in
 
 ## VR Interface
 ![image](https://github.com/user-attachments/assets/93a1a55b-1226-4287-a71d-8f00e4d63fa0)
+![image](https://github.com/user-attachments/assets/8c61f029-9a67-422e-baa3-4ededfad3fb4)
 
 ## Technology Stack
 * Unity: Game engine used for developing the VR environment.
